@@ -1,3 +1,0 @@
-# headstarter-extension
-
-# oh well
